@@ -1,1 +1,1 @@
-Purpose: To share code challenges that I have solved in various languages
+Purpose: To share code challenges that I have solved in various languages including C# and Javascript
