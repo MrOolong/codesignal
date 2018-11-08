@@ -1,0 +1,1 @@
+Purpose: To share code challenges that I have solved in various languages
